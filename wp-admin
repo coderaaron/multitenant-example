@@ -1,0 +1,2 @@
+Symlink to "wp-admin" in landlord folder:
+wp-admin -> wp/wp-admin/index.php
